@@ -1,0 +1,5 @@
+shroomdk
+streamlit
+pandas
+requests
+numpy
